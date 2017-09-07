@@ -21,3 +21,4 @@ WebSocket的协议颇为简单，在第一次handshake通过以后，连接便�
 
 Go原生没提供websocket库
 golang.org/x/net/websocket 已更换 面目全非了
+新库 github.com/gorilla/websocket
